@@ -13,7 +13,7 @@
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Chronostratigraphy/">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
 </rdf:Description>
-
+<!-- TEST EDITING -->
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Chronostratigraphy/Phanerozoic">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The Phanerozoic (approx. from 539 Ma ago to the Present) is the main (though not the longest) eon of Earth history, encompassing the Paleozoic, Mesozoic and Cenonoic eras.</skos:definition>
